@@ -1,0 +1,10 @@
+<mujoco model="blue_box">
+  <worldbody>
+    <body name="blue_box" pos="0 0 0">
+      <freejoint name="box_joint"/>
+      <geom name="box_geom" type="box" size="0.1 0.1 0.05" rgba="0 0.2 0.8 1" mass="1.0" friction="1 0.005 0.0001"/>
+      <site name="grip_left" pos="0 -0.1 0" size="0.01" rgba="1 0 0 1"/>
+      <site name="grip_right" pos="0 0.1 0" size="0.01" rgba="1 0 0 1"/>
+    </body>
+  </worldbody>
+</mujoco>
