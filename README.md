@@ -61,7 +61,7 @@ Navigate to the scripts directory and execute the main python file:
 ├── data/                        # Auto-generated output directory
 │   ├── grasping_process.mp4     # Simulation video recording
 │   └── traj_l_xyz_*.txt         # Exported XYZ trajectory data for each phase
-├── src/                        # Auto-generated output directory
+├── src/                        # class
 │   ├── dynamics_model.py     
 │   ├── force_estimator.py     
 │   ├── impedance_controller.py     
