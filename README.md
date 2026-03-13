@@ -5,7 +5,7 @@ This repository provides a physics-based simulation of a dual-arm robotic system
 This project serves as an unofficial partial reproduction of the cooperative manipulation control architecture presented in the academic paper: 
 *"Mobile Preassembly Systems with Cooperative Dual-Arm Manipulation - A Concept for Industrial Applications in the Near Future"*.
 
-![Simulation Demo](data/grasping_process.MP4) 
+![Simulation Demo](data/grasping_process.gif) 
 
 ## 📄 Reference Paper
 * **Title**: Mobile Preassembly Systems with Cooperative Dual-Arm Manipulation - A Concept for Industrial Applications in the Near Future 
